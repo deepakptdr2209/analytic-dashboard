@@ -66,38 +66,13 @@ A modern, responsive dashboard application built with React, TypeScript, and Tai
   - React Testing Library
   - MSW for API mocking
 
-## Project Structure
 
-```
-src/
-├── components/
-│   ├── users/
-│   │   ├── UserTable.tsx
-│   │   ├── UserActions.tsx
-│   │   └── UserFilters.tsx
-│   ├── analytics/
-│   │   ├── OverviewCards.tsx
-│   │   ├── TrendsChart.tsx
-│   │   └── RegionalChart.tsx
-│   └── common/
-├── store/
-│   ├── slices/
-│   │   ├── userSlice.ts
-│   │   └── analyticsSlice.ts
-│   └── store.ts
-├── types/
-│   ├── user.ts
-│   └── analytics.ts
-└── utils/
-    ├── mockData.ts
-    └── helpers.ts
-```
 
 ## Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/user-analytics-dashboard.git
+   git clone https://github.com/deepakptdr2209/analytic-dashboard.git
    ```
 
 2. Install dependencies:
